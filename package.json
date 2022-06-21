@@ -1,0 +1,8 @@
+{
+  "name": "wasteofbot-starterkit",
+  "description": "A simple starter kit for a wasteof.money bot",
+  "type": "module",
+  "dependencies": {
+    "wasteof-client": "^3.0.0"
+  }
+}
