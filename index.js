@@ -26,6 +26,7 @@ async function replyToComment(comment) {
 
  	await wastatic.getRepliesToComment(commentid, 0)
   .then(data => {
+    if (!data[0]) return;
     if (data[0].poster.name == username) responded = true;
   })
 
