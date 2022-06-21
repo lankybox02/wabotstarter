@@ -16,6 +16,7 @@ wasteof.listen(async (event) => {
 });
 
 async function replyToComment(comment) {
+  if (!comment) return;
   let postername = comment.poster.name; // username the one leaving the comment
   let posterid = comment.poster.id; // id of the one leaving the comment
   let content = comment.content; // content of the comment
