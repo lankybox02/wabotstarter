@@ -30,4 +30,5 @@ async function replyToComment(comment) {
 
   /* DO STUFF HERE */
   if (responded) return; // if the bot already responded to the comment, stop the function
+  wasteof.postWallComment(username, "Message content here...", commentid); // reply to the comment
 }
