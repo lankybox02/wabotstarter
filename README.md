@@ -10,4 +10,4 @@ Go to the repository shell and type `npm i wasteof-client`. Then, change the `us
 ### Handling errors
 If you received any errors that you don't understand, please comment on my wall:
 
-[Beta](https://beta.wasteof.money/users/justlanksy/wall) - [Prod](https://wasteof.money/users/justlanksy/wall)
+[Beta](https://beta.wasteof.money/users/ari/wall) - [Prod](https://wasteof.money/users/ari/wall)
